@@ -2,9 +2,15 @@
   "metadata": {
     "month": 1,
     "phase": "Foundations",
-    "topics": ["arrays", "searching", "recursion", "probability", "combinatorics"],
+    "topics": [
+      "arrays",
+      "searching",
+      "recursion",
+      "probability",
+      "combinatorics"
+    ],
     "total_problems": 60,
-    "last_updated": null,
+    "last_updated": "2026-04-29",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -20,7 +26,7 @@
       "month": 1,
       "day": 1,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-04-29",
       "status": "pending",
       "solution_path": null,
       "notes": null,
@@ -38,7 +44,7 @@
       "month": 1,
       "day": 1,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-04-29",
       "status": "pending",
       "solution_path": null,
       "notes": null,
