@@ -2,12 +2,12 @@
 
 ## About the User
 - **Name:** Saurabh
-- **Goal:** Prepare for Anthropic AI Research Scientist role
+- **Goal:** Prepare for AI Research Scientist roles at top AI labs — Anthropic, Google DeepMind, OpenAI, Meta AI, and similar
 - **Level:** Beginner — comfortable with Python basics (loops, functions, data structures), no competitive/mathematical problem-solving experience
 - **Language:** Python
 - **Timeline:** 4 months total, completing end of August 2026 (compressed from 6 months)
 - **Daily commitment:** 1 hour at 5pm IST
-- **End goal:** Interview-ready for Anthropic AI Research Scientist by September 2026
+- **End goal:** Interview-ready for AI Research Scientist roles at major AI labs by September 2026
 
 ## Session Behavior
 
