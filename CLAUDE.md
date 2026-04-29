@@ -5,8 +5,9 @@
 - **Goal:** Prepare for Anthropic AI Research Scientist role
 - **Level:** Beginner — comfortable with Python basics (loops, functions, data structures), no competitive/mathematical problem-solving experience
 - **Language:** Python
-- **Timeline:** 4 months curriculum + 2 months mock interviews & weak areas
+- **Timeline:** 4 months total, completing end of August 2026 (compressed from 6 months)
 - **Daily commitment:** 1 hour at 5pm IST
+- **End goal:** Interview-ready for Anthropic AI Research Scientist by September 2026
 
 ## Session Behavior
 
@@ -43,16 +44,20 @@
 - Review which topics need more time
 - Adjust next month's plan if needed
 
-## Curriculum Phases
+## Curriculum Phases (Compressed — Done by August 2026)
 
-| Month | Phase | Topics | Difficulty |
-|-------|-------|--------|-----------|
-| 1 (Apr 2026) | Foundations | Arrays, recursion, searching, basic probability, combinatorics | Easy to Easy-Medium |
-| 2 (May 2026) | Core CS + Math | Graphs, DP, trees, linear algebra, statistics | Medium |
-| 3 (Jun 2026) | ML-flavored | Backprop, gradient descent, simulations, information theory, optimization | Medium to Hard |
-| 4 (Jul 2026) | Hard mixed | Jane Street puzzles, competition problems, interview-style | Hard |
-| 5 (Aug 2026) | Weak areas | Topics flagged from months 1-4 | Targeted |
-| 6 (Sep 2026) | Mock interviews | Timed, mixed-topic, interview-realistic | Mixed |
+| Month | Window | Phase | Topics | Difficulty |
+|-------|--------|-------|--------|-----------|
+| 1 | Apr 29 – May 28 | Foundations | Arrays, recursion, searching, basic probability, combinatorics | Easy to Easy-Medium |
+| 2 | May 29 – Jun 28 | Core CS + Math | Graphs, DP, trees, linear algebra, statistics | Medium |
+| 3 | Jun 29 – Jul 28 | ML-flavored + Hard mixed | Backprop, gradient descent, simulations, information theory, Jane Street puzzles, Codeforces | Medium to Hard |
+| 4 | Jul 29 – Aug 28 | Weak areas + Mock interviews | Targeted drilling on weak topics + timed mixed-topic mock interviews | Mixed / Hard |
+
+**How months chain into each other:**
+- Month 1 builds the foundation (probability, recursion, hashing) needed for Month 3's Jane Street puzzles
+- Month 2 adds graphs/DP/linear algebra needed for Markov chains, random walks, ML problems
+- Month 3 combines ML-flavored problems with hard puzzles — applying foundations under pressure
+- Month 4 identifies remaining gaps and runs realistic interview simulations
 
 ## Adaptive Difficulty Rules
 - Solve both problems for 5 consecutive days -> bump difficulty
@@ -62,9 +67,8 @@
 ## Problem Sources
 - Month 1: LeetCode Easy/Medium, Project Euler (1-50)
 - Month 2: CSES, LeetCode Medium, MIT OCW problems
-- Month 3: Custom-curated ML problems, paper implementations
-- Month 4: Jane Street, Codeforces Div 2/3, Putnam-light
-- Month 5-6: Mix based on identified weaknesses
+- Month 3: Custom-curated ML problems + Jane Street puzzles + Codeforces Div 2/3 + Putnam-light
+- Month 4: Mock interview pools (Pramp, interviewing.io style) + targeted weak-area drills
 
 ## Repo Conventions
 - Solutions go in `solutions/monthN/dayXXX_problem_name.py`
