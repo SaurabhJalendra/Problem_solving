@@ -33,9 +33,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Hash Map in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/dsa/hash-map-in-python/"},
-        {"title": "Two Sum — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/two-integer-sum"},
-        {"title": "Arrays & Hashing — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Hash Map in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/dsa/hash-map-in-python/"
+        },
+        {
+          "title": "Two Sum — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/two-integer-sum"
+        },
+        {
+          "title": "Arrays & Hashing — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -56,8 +68,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python Loops and Iteration — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/loops-in-python/"},
-        {"title": "Arithmetic Progressions and Summation — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/a/arithmetic-sequence-review"}
+        {
+          "title": "Python Loops and Iteration — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/loops-in-python/"
+        },
+        {
+          "title": "Arithmetic Progressions and Summation — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/a/arithmetic-sequence-review"
+        }
       ]
     },
     {
@@ -71,16 +91,28 @@
       "month": 1,
       "day": 2,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-04-29",
       "status": "pending",
       "solution_path": null,
       "notes": null,
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Greedy Algorithms — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/greedy-algorithms/"},
-        {"title": "Buy and Sell Stock — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/buy-and-sell-crypto"},
-        {"title": "Arrays — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Greedy Algorithms — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/greedy-algorithms/"
+        },
+        {
+          "title": "Buy and Sell Stock — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/buy-and-sell-crypto"
+        },
+        {
+          "title": "Arrays — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -94,15 +126,23 @@
       "month": 1,
       "day": 2,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-04-29",
       "status": "pending",
       "solution_path": null,
       "notes": null,
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Fibonacci Sequence — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"},
-        {"title": "Python List Filtering with Conditions — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-filter-list-by-boolean-list/"}
+        {
+          "title": "Fibonacci Sequence — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
+        },
+        {
+          "title": "Python List Filtering with Conditions — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-filter-list-by-boolean-list/"
+        }
       ]
     },
     {
@@ -123,9 +163,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python Sets — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sets-in-python/"},
-        {"title": "Contains Duplicate — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/duplicate-integer"},
-        {"title": "Arrays & Hashing — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Python Sets — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sets-in-python/"
+        },
+        {
+          "title": "Contains Duplicate — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/duplicate-integer"
+        },
+        {
+          "title": "Arrays & Hashing — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -146,9 +198,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Prime Factorization — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"},
-        {"title": "Sieve of Eratosthenes — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"},
-        {"title": "Trial Division — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/"}
+        {
+          "title": "Prime Factorization — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/"
+        },
+        {
+          "title": "Sieve of Eratosthenes — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"
+        },
+        {
+          "title": "Trial Division — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/"
+        }
       ]
     },
     {
@@ -169,9 +233,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Kadane's Algorithm — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Maximum_subarray_problem"},
-        {"title": "Kadane's Algorithm — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/"},
-        {"title": "Maximum Subarray — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/maximum-subarray"}
+        {
+          "title": "Kadane's Algorithm — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Maximum_subarray_problem"
+        },
+        {
+          "title": "Kadane's Algorithm — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/"
+        },
+        {
+          "title": "Maximum Subarray — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/maximum-subarray"
+        }
       ]
     },
     {
@@ -192,8 +268,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Palindrome Check in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-to-check-if-string-is-palindrome/"},
-        {"title": "Python String Methods — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-string-methods/"}
+        {
+          "title": "Palindrome Check in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-to-check-if-string-is-palindrome/"
+        },
+        {
+          "title": "Python String Methods — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-string-methods/"
+        }
       ]
     },
     {
@@ -214,9 +298,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Two Pointers Technique — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/two-pointers-technique/"},
-        {"title": "Two Pointers — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"},
-        {"title": "In-place Algorithm — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/in-place-algorithm/"}
+        {
+          "title": "Two Pointers Technique — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/two-pointers-technique/"
+        },
+        {
+          "title": "Two Pointers — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        },
+        {
+          "title": "In-place Algorithm — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/in-place-algorithm/"
+        }
       ]
     },
     {
@@ -237,8 +333,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "GCD and LCM — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/lcm-and-hcf/"},
-        {"title": "Euclidean Algorithm — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm"}
+        {
+          "title": "GCD and LCM — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/lcm-and-hcf/"
+        },
+        {
+          "title": "Euclidean Algorithm — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm"
+        }
       ]
     },
     {
@@ -259,8 +363,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Two Pointers Technique — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/two-pointers-technique/"},
-        {"title": "Two Pointers — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Two Pointers Technique — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/two-pointers-technique/"
+        },
+        {
+          "title": "Two Pointers — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -281,8 +393,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sum of First N Natural Numbers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/"},
-        {"title": "Arithmetic Series — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/a/arithmetic-sequence-review"}
+        {
+          "title": "Sum of First N Natural Numbers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/"
+        },
+        {
+          "title": "Arithmetic Series — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:sequences/x2f8bb11595b61c86:introduction-to-arithmetic-sequences/a/arithmetic-sequence-review"
+        }
       ]
     },
     {
@@ -303,9 +423,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "XOR Bitwise Operation — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-bitwise-operators/"},
-        {"title": "Bit Manipulation — freeCodeCamp", "type": "article", "url": "https://www.freecodecamp.org/news/bit-manipulation-in-c-it-is-all-about-the-bits/"},
-        {"title": "Bit Manipulation — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "XOR Bitwise Operation — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-bitwise-operators/"
+        },
+        {
+          "title": "Bit Manipulation — freeCodeCamp",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/bit-manipulation-in-c-it-is-all-about-the-bits/"
+        },
+        {
+          "title": "Bit Manipulation — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -326,9 +458,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sieve of Eratosthenes — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"},
-        {"title": "Sieve of Eratosthenes — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sieve-of-eratosthenes/"},
-        {"title": "Sieve of Eratosthenes — Visualgo", "type": "interactive", "url": "https://visualgo.net/en/primefactorisation"}
+        {
+          "title": "Sieve of Eratosthenes — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"
+        },
+        {
+          "title": "Sieve of Eratosthenes — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sieve-of-eratosthenes/"
+        },
+        {
+          "title": "Sieve of Eratosthenes — Visualgo",
+          "type": "interactive",
+          "url": "https://visualgo.net/en/primefactorisation"
+        }
       ]
     },
     {
@@ -349,8 +493,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sum of First N Natural Numbers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/"},
-        {"title": "Missing Number — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/missing-number"}
+        {
+          "title": "Sum of First N Natural Numbers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/"
+        },
+        {
+          "title": "Missing Number — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/missing-number"
+        }
       ]
     },
     {
@@ -371,8 +523,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sliding Window Technique — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/window-sliding-technique/"},
-        {"title": "Sliding Window — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Sliding Window Technique — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/window-sliding-technique/"
+        },
+        {
+          "title": "Sliding Window — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -393,8 +553,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Boyer-Moore Voting Algorithm — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/"},
-        {"title": "Majority Element — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/majority-element"}
+        {
+          "title": "Boyer-Moore Voting Algorithm — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/"
+        },
+        {
+          "title": "Majority Element — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/majority-element"
+        }
       ]
     },
     {
@@ -415,8 +583,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Pythagorean Triplets — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/pythagorean-triplet-in-an-array/"},
-        {"title": "Brute Force Approach — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/"}
+        {
+          "title": "Pythagorean Triplets — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/pythagorean-triplet-in-an-array/"
+        },
+        {
+          "title": "Brute Force Approach — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/"
+        }
       ]
     },
     {
@@ -437,8 +613,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Prefix Sum Array — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"},
-        {"title": "Prefix Sums — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Prefix Sum Array — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
+        },
+        {
+          "title": "Prefix Sums — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -459,9 +643,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sieve of Eratosthenes — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"},
-        {"title": "Sieve of Eratosthenes — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sieve-of-eratosthenes/"},
-        {"title": "Sieve of Eratosthenes — Visualgo", "type": "interactive", "url": "https://visualgo.net/en/primefactorisation"}
+        {
+          "title": "Sieve of Eratosthenes — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"
+        },
+        {
+          "title": "Sieve of Eratosthenes — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sieve-of-eratosthenes/"
+        },
+        {
+          "title": "Sieve of Eratosthenes — Visualgo",
+          "type": "interactive",
+          "url": "https://visualgo.net/en/primefactorisation"
+        }
       ]
     },
     {
@@ -482,9 +678,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Binary Search — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/binary-search/"},
-        {"title": "Binary Search — Visualgo", "type": "interactive", "url": "https://visualgo.net/en/bst"},
-        {"title": "Binary Search — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Binary Search — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/binary-search/"
+        },
+        {
+          "title": "Binary Search — Visualgo",
+          "type": "interactive",
+          "url": "https://visualgo.net/en/bst"
+        },
+        {
+          "title": "Binary Search — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -505,8 +713,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "2D Array Traversal in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/traversal-of-2-d-array/"},
-        {"title": "Matrix Traversal Techniques — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/print-matrix-in-spiral-form/"}
+        {
+          "title": "2D Array Traversal in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/traversal-of-2-d-array/"
+        },
+        {
+          "title": "Matrix Traversal Techniques — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/print-matrix-in-spiral-form/"
+        }
       ]
     },
     {
@@ -527,9 +743,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Binary Search — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/binary-search/"},
-        {"title": "Search Insert Position — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/search-insert-position"},
-        {"title": "Binary Search — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Binary Search — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/binary-search/"
+        },
+        {
+          "title": "Search Insert Position — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/search-insert-position"
+        },
+        {
+          "title": "Binary Search — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -550,8 +778,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Counting Divisors of a Number — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/count-divisors-n/"},
-        {"title": "Triangular Numbers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/triangular-numbers/"}
+        {
+          "title": "Counting Divisors of a Number — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/count-divisors-n/"
+        },
+        {
+          "title": "Triangular Numbers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/triangular-numbers/"
+        }
       ]
     },
     {
@@ -572,9 +808,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Binary Search — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/binary-search/"},
-        {"title": "First Bad Version — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/first-bad-version"},
-        {"title": "Binary Search — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Binary Search — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/binary-search/"
+        },
+        {
+          "title": "First Bad Version — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/first-bad-version"
+        },
+        {
+          "title": "Binary Search — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -595,8 +843,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python Arbitrary Precision Integers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"},
-        {"title": "Python int — no overflow! — freeCodeCamp", "type": "article", "url": "https://www.freecodecamp.org/news/python-number-types-int-float-and-complex/"}
+        {
+          "title": "Python Arbitrary Precision Integers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"
+        },
+        {
+          "title": "Python int — no overflow! — freeCodeCamp",
+          "type": "article",
+          "url": "https://www.freecodecamp.org/news/python-number-types-int-float-and-complex/"
+        }
       ]
     },
     {
@@ -617,9 +873,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Binary Search — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/binary-search/"},
-        {"title": "Binary Search — Visualgo", "type": "interactive", "url": "https://visualgo.net/en/bst"},
-        {"title": "Binary Search — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Binary Search — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/binary-search/"
+        },
+        {
+          "title": "Binary Search — Visualgo",
+          "type": "interactive",
+          "url": "https://visualgo.net/en/bst"
+        },
+        {
+          "title": "Binary Search — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -640,8 +908,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Memoization in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"},
-        {"title": "Collatz Conjecture — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Collatz_conjecture"}
+        {
+          "title": "Memoization in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"
+        },
+        {
+          "title": "Collatz Conjecture — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Collatz_conjecture"
+        }
       ]
     },
     {
@@ -662,8 +938,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Find Peak Element — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/"},
-        {"title": "Binary Search — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Find Peak Element — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/"
+        },
+        {
+          "title": "Binary Search — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -684,8 +968,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python Arbitrary Precision Integers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"},
-        {"title": "Digit Sum in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"}
+        {
+          "title": "Python Arbitrary Precision Integers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"
+        },
+        {
+          "title": "Digit Sum in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"
+        }
       ]
     },
     {
@@ -706,9 +998,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Recursion in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/recursion/"},
-        {"title": "Memoization in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"},
-        {"title": "Recursion — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Recursion in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/recursion/"
+        },
+        {
+          "title": "Memoization in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"
+        },
+        {
+          "title": "Recursion — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -729,8 +1033,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Fibonacci Number — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"},
-        {"title": "Python Arbitrary Precision Integers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"}
+        {
+          "title": "Fibonacci Number — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
+        },
+        {
+          "title": "Python Arbitrary Precision Integers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/arbitrary-precision-arithmetic/"
+        }
       ]
     },
     {
@@ -751,9 +1063,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Memoization in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"},
-        {"title": "Climbing Stairs — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/climbing-stairs"},
-        {"title": "1-D Dynamic Programming — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Memoization in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/memoization-using-decorators-in-python/"
+        },
+        {
+          "title": "Climbing Stairs — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/climbing-stairs"
+        },
+        {
+          "title": "1-D Dynamic Programming — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -774,8 +1098,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Recursion in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/recursion/"},
-        {"title": "Python Dictionaries for Lookup — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-dictionary/"}
+        {
+          "title": "Recursion in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/recursion/"
+        },
+        {
+          "title": "Python Dictionaries for Lookup — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-dictionary/"
+        }
       ]
     },
     {
@@ -796,8 +1128,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Recursion in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/recursion/"},
-        {"title": "Python Bitwise Operators — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-bitwise-operators/"}
+        {
+          "title": "Recursion in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/recursion/"
+        },
+        {
+          "title": "Python Bitwise Operators — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-bitwise-operators/"
+        }
       ]
     },
     {
@@ -818,9 +1158,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Top-Down Dynamic Programming — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/tabulation-vs-memoization/"},
-        {"title": "Triangle — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/triangle"},
-        {"title": "1-D Dynamic Programming — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Top-Down Dynamic Programming — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/tabulation-vs-memoization/"
+        },
+        {
+          "title": "Triangle — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/triangle"
+        },
+        {
+          "title": "1-D Dynamic Programming — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -841,8 +1193,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Fast Power / Exponentiation by Squaring — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/"},
-        {"title": "Divide and Conquer — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/divide-and-conquer/"}
+        {
+          "title": "Fast Power / Exponentiation by Squaring — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/"
+        },
+        {
+          "title": "Divide and Conquer — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/divide-and-conquer/"
+        }
       ]
     },
     {
@@ -863,8 +1223,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Factorial Using Recursion — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-for-factorial-of-a-number/"},
-        {"title": "Digit Sum in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"}
+        {
+          "title": "Factorial Using Recursion — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-for-factorial-of-a-number/"
+        },
+        {
+          "title": "Digit Sum in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"
+        }
       ]
     },
     {
@@ -885,9 +1253,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Reverse a Linked List — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/reverse-a-linked-list/"},
-        {"title": "Reverse Linked List — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/reverse-a-linked-list"},
-        {"title": "Linked List — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Reverse a Linked List — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+        },
+        {
+          "title": "Reverse Linked List — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/reverse-a-linked-list"
+        },
+        {
+          "title": "Linked List — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -908,8 +1288,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Sum of Divisors — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sum-of-all-proper-divisors-of-a-natural-number/"},
-        {"title": "Amicable Numbers — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Amicable_numbers"}
+        {
+          "title": "Sum of Divisors — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sum-of-all-proper-divisors-of-a-natural-number/"
+        },
+        {
+          "title": "Amicable Numbers — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Amicable_numbers"
+        }
       ]
     },
     {
@@ -930,9 +1318,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Backtracking — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"},
-        {"title": "Generate Parentheses — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/generate-parentheses"},
-        {"title": "Backtracking — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Backtracking — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"
+        },
+        {
+          "title": "Generate Parentheses — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/generate-parentheses"
+        },
+        {
+          "title": "Backtracking — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -953,8 +1353,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python Sorting — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sort-in-python/"},
-        {"title": "Python String ord() and chr() — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-ord-function/"}
+        {
+          "title": "Python Sorting — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sort-in-python/"
+        },
+        {
+          "title": "Python String ord() and chr() — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-ord-function/"
+        }
       ]
     },
     {
@@ -975,9 +1383,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Power Set using Backtracking — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/power-set/"},
-        {"title": "Subsets — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/subsets"},
-        {"title": "Backtracking — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Power Set using Backtracking — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/power-set/"
+        },
+        {
+          "title": "Subsets — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/subsets"
+        },
+        {
+          "title": "Backtracking — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -998,8 +1418,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Abundant Numbers — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Abundant_number"},
-        {"title": "Python Sets for Fast Lookup — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/sets-in-python/"}
+        {
+          "title": "Abundant Numbers — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Abundant_number"
+        },
+        {
+          "title": "Python Sets for Fast Lookup — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/sets-in-python/"
+        }
       ]
     },
     {
@@ -1020,8 +1448,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Basic Probability — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/probability-library"},
-        {"title": "Python random module — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-random-module/"}
+        {
+          "title": "Basic Probability — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/probability-library"
+        },
+        {
+          "title": "Python random module — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-random-module/"
+        }
       ]
     },
     {
@@ -1042,9 +1478,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Permutations — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutations/a/permutations-review"},
-        {"title": "Lexicographic Ordering — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/lexicographic-rank-of-a-string/"},
-        {"title": "Python itertools.permutations — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-itertools-permutations/"}
+        {
+          "title": "Permutations — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutations/a/permutations-review"
+        },
+        {
+          "title": "Lexicographic Ordering — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/lexicographic-rank-of-a-string/"
+        },
+        {
+          "title": "Python itertools.permutations — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-itertools-permutations/"
+        }
       ]
     },
     {
@@ -1065,9 +1513,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Probability Distributions — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library"},
-        {"title": "Python random module — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-random-module/"},
-        {"title": "Discrete Probability Distributions — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/discrete-random-variables-definition/"}
+        {
+          "title": "Probability Distributions — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library"
+        },
+        {
+          "title": "Python random module — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-random-module/"
+        },
+        {
+          "title": "Discrete Probability Distributions — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/discrete-random-variables-definition/"
+        }
       ]
     },
     {
@@ -1088,8 +1548,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python datetime module — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-datetime-module/"},
-        {"title": "Counting Principles — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations"}
+        {
+          "title": "Python datetime module — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-datetime-module/"
+        },
+        {
+          "title": "Counting Principles — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations"
+        }
       ]
     },
     {
@@ -1110,9 +1578,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Birthday Problem — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Birthday_problem"},
-        {"title": "Birthday Paradox — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-prob/v/birthday-probability-problem"},
-        {"title": "Birthday Problem — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/birthday-paradox/"}
+        {
+          "title": "Birthday Problem — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Birthday_problem"
+        },
+        {
+          "title": "Birthday Paradox — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-prob/v/birthday-probability-problem"
+        },
+        {
+          "title": "Birthday Problem — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/birthday-paradox/"
+        }
       ]
     },
     {
@@ -1133,8 +1613,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Factorial Using Recursion — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-for-factorial-of-a-number/"},
-        {"title": "Digit Extraction in Python — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"}
+        {
+          "title": "Factorial Using Recursion — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-for-factorial-of-a-number/"
+        },
+        {
+          "title": "Digit Extraction in Python — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-program-for-sum-of-digits-of-a-number/"
+        }
       ]
     },
     {
@@ -1155,9 +1643,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Monty Hall Problem — Wikipedia", "type": "article", "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"},
-        {"title": "Conditional Probability — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/a/conditional-probability-using-two-way-tables"},
-        {"title": "Monty Hall Problem — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/monty-hall-problem/"}
+        {
+          "title": "Monty Hall Problem — Wikipedia",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+        },
+        {
+          "title": "Conditional Probability — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/a/conditional-probability-using-two-way-tables"
+        },
+        {
+          "title": "Monty Hall Problem — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/monty-hall-problem/"
+        }
       ]
     },
     {
@@ -1178,9 +1678,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Probability Distributions — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library"},
-        {"title": "Convolution of Discrete Distributions — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/discrete-random-variables-definition/"},
-        {"title": "Polynomial Multiplication — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/multiply-two-polynomials-2/"}
+        {
+          "title": "Probability Distributions — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library"
+        },
+        {
+          "title": "Convolution of Discrete Distributions — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/discrete-random-variables-definition/"
+        },
+        {
+          "title": "Polynomial Multiplication — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/multiply-two-polynomials-2/"
+        }
       ]
     },
     {
@@ -1201,9 +1713,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Pascal's Triangle — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combinations-and-pascals-triangle"},
-        {"title": "Binomial Coefficients — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/binomial-coefficient-dp-9/"},
-        {"title": "Pascal's Triangle — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/pascals-triangle/"}
+        {
+          "title": "Pascal's Triangle — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combinations-and-pascals-triangle"
+        },
+        {
+          "title": "Binomial Coefficients — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/binomial-coefficient-dp-9/"
+        },
+        {
+          "title": "Pascal's Triangle — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/pascals-triangle/"
+        }
       ]
     },
     {
@@ -1224,9 +1748,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Combinations — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"},
-        {"title": "Counting Paths in a Grid — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxmmatrix/"},
-        {"title": "Unique Paths — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/count-paths"}
+        {
+          "title": "Combinations — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"
+        },
+        {
+          "title": "Counting Paths in a Grid — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxmmatrix/"
+        },
+        {
+          "title": "Unique Paths — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/count-paths"
+        }
       ]
     },
     {
@@ -1247,9 +1783,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Backtracking — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"},
-        {"title": "Combinations — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/combinations"},
-        {"title": "Combinations Formula — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"}
+        {
+          "title": "Backtracking — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"
+        },
+        {
+          "title": "Combinations — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/combinations"
+        },
+        {
+          "title": "Combinations Formula — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"
+        }
       ]
     },
     {
@@ -1270,9 +1818,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Combinations — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"},
-        {"title": "Counting Rectangles in a Grid — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/count-number-of-rectangles-in-a-grid/"},
-        {"title": "Combinatorics — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/combinatorics/"}
+        {
+          "title": "Combinations — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"
+        },
+        {
+          "title": "Counting Rectangles in a Grid — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/count-number-of-rectangles-in-a-grid/"
+        },
+        {
+          "title": "Combinatorics — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/combinatorics/"
+        }
       ]
     },
     {
@@ -1293,9 +1853,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Backtracking — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"},
-        {"title": "Permutations — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/permutations"},
-        {"title": "Permutations — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutations/a/permutations-review"}
+        {
+          "title": "Backtracking — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"
+        },
+        {
+          "title": "Permutations — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/permutations"
+        },
+        {
+          "title": "Permutations — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutations/a/permutations-review"
+        }
       ]
     },
     {
@@ -1316,9 +1888,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Coin Change — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/coin-change"},
-        {"title": "Combinations with Repetition — Brilliant", "type": "article", "url": "https://brilliant.org/wiki/combinations-with-repetition/"},
-        {"title": "Dynamic Programming — NeetCode Roadmap", "type": "article", "url": "https://neetcode.io/roadmap"}
+        {
+          "title": "Coin Change — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/coin-change"
+        },
+        {
+          "title": "Combinations with Repetition — Brilliant",
+          "type": "article",
+          "url": "https://brilliant.org/wiki/combinations-with-repetition/"
+        },
+        {
+          "title": "Dynamic Programming — NeetCode Roadmap",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
       ]
     },
     {
@@ -1339,9 +1923,21 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Combinations — Khan Academy", "type": "article", "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"},
-        {"title": "Counting Paths in a Grid — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxmmatrix/"},
-        {"title": "Unique Paths — NeetCode walkthrough", "type": "video", "url": "https://neetcode.io/problems/count-paths"}
+        {
+          "title": "Combinations — Khan Academy",
+          "type": "article",
+          "url": "https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib/a/combination-formula"
+        },
+        {
+          "title": "Counting Paths in a Grid — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxmmatrix/"
+        },
+        {
+          "title": "Unique Paths — NeetCode walkthrough",
+          "type": "video",
+          "url": "https://neetcode.io/problems/count-paths"
+        }
       ]
     },
     {
@@ -1362,8 +1958,16 @@
       "time_spent_minutes": null,
       "struggled": null,
       "references": [
-        {"title": "Python itertools.permutations — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/python-itertools-permutations/"},
-        {"title": "Pandigital Numbers — GeeksforGeeks", "type": "article", "url": "https://www.geeksforgeeks.org/check-if-a-number-is-pandigital-in-base-10/"}
+        {
+          "title": "Python itertools.permutations — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/python-itertools-permutations/"
+        },
+        {
+          "title": "Pandigital Numbers — GeeksforGeeks",
+          "type": "article",
+          "url": "https://www.geeksforgeeks.org/check-if-a-number-is-pandigital-in-base-10/"
+        }
       ]
     }
   ]
