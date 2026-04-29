@@ -57,6 +57,8 @@ def render_html(today_problems, db, today_str):
     month = metadata.get("month", "?")
     day_label = today_problems[0]["day"] if today_problems else "?"
 
+    type_emoji = {"video": "🎥", "article": "📄", "interactive": "🧩"}
+
     def problem_block(p):
         url_or_note = (
             f'<a href="{p["url"]}" style="color:#0066cc;font-weight:600;">{p["title"]}</a>'
@@ -68,11 +70,26 @@ def render_html(today_problems, db, today_str):
             if p.get("notes")
             else ""
         )
+        refs = p.get("references") or []
+        if refs:
+            refs_items = "".join(
+                f'<li style="margin:4px 0;"><a href="{r["url"]}" style="color:#0369a1;text-decoration:none;">{type_emoji.get(r.get("type",""), "🔗")} {r["title"]}</a></li>'
+                for r in refs
+            )
+            refs_html = (
+                '<div style="margin-top:12px;padding:10px 14px;background:#f0f9ff;border-left:3px solid #0ea5e9;border-radius:4px;">'
+                '<div style="font-size:12px;font-weight:600;color:#0369a1;margin-bottom:6px;">Stuck? Learn the concept:</div>'
+                f'<ul style="margin:0;padding-left:18px;font-size:13px;">{refs_items}</ul>'
+                '</div>'
+            )
+        else:
+            refs_html = ""
         return f"""
         <div style="background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:18px 20px;margin-bottom:14px;">
           <div style="font-size:13px;color:#6b7280;margin-bottom:6px;">[{p['source']}] &middot; {p['topic']} / {p['subtopic']} &middot; <strong style="color:#b45309;">{p['difficulty']}</strong></div>
           <div style="font-size:17px;color:#111827;">{url_or_note}</div>
           {notes_html}
+          {refs_html}
         </div>
         """
 
@@ -116,6 +133,11 @@ def render_text(today_problems, db, today_str):
             lines.append(f"   Link: {p['url']}")
         if p.get("notes"):
             lines.append(f"   Notes: {p['notes']}")
+        refs = p.get("references") or []
+        if refs:
+            lines.append("   Learn the concept:")
+            for r in refs:
+                lines.append(f"     - {r['title']}: {r['url']}")
         lines.append("")
     solved = sum(1 for p in db["problems"] if p.get("status") == "solved")
     total = db["metadata"].get("total_problems", len(db["problems"]))
