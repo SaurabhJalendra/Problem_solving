@@ -1,0 +1,51 @@
+name: Daily Problem Solver
+
+on:
+  # 11:30 UTC = 17:00 IST (5pm)
+  schedule:
+    - cron: '30 11 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-problems
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Send daily problems email
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          TZ: Asia/Kolkata
+        run: python scripts/send_daily_problems.py
+
+      - name: Commit database update
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add problems/database.json
+          if git diff --staged --quiet; then
+            echo "No database changes to commit"
+          else
+            git commit -m "assign daily problems for $(TZ=Asia/Kolkata date +%Y-%m-%d)"
+            git pull --rebase origin main || true
+            git push
+          fi
