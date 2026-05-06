@@ -10,7 +10,7 @@
       "combinatorics"
     ],
     "total_problems": 60,
-    "last_updated": "2026-05-05",
+    "last_updated": "2026-05-06",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -546,7 +546,7 @@
       "month": 1,
       "day": 9,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-05-06",
       "status": "pending",
       "solution_path": null,
       "notes": null,
@@ -576,7 +576,7 @@
       "month": 1,
       "day": 9,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-05-06",
       "status": "pending",
       "solution_path": null,
       "notes": null,
