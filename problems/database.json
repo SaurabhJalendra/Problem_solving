@@ -10,7 +10,7 @@
       "combinatorics"
     ],
     "total_problems": 60,
-    "last_updated": "2026-05-19",
+    "last_updated": "2026-05-20",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -1441,7 +1441,7 @@
       "month": 1,
       "day": 23,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-05-20",
       "status": "pending",
       "solution_path": null,
       "notes": "Classic simulation: in N experiments of 100 coin flips, how many have a streak of 6+ heads or tails? (from Automate the Boring Stuff Chapter 4). Then verify against the analytical probability.",
@@ -1471,7 +1471,7 @@
       "month": 1,
       "day": 23,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-05-20",
       "status": "pending",
       "solution_path": null,
       "notes": null,
