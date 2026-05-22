@@ -10,7 +10,7 @@
       "combinatorics"
     ],
     "total_problems": 60,
-    "last_updated": "2026-05-21",
+    "last_updated": "2026-05-22",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -1571,7 +1571,7 @@
       "month": 1,
       "day": 25,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-05-22",
       "status": "pending",
       "solution_path": null,
       "notes": "Run 10000 experiments: each experiment picks 23 random birthdays (1-365). Count how many experiments have at least one shared birthday. Verify it is close to 50.7%. Then extend: what group size gives 99% probability?",
@@ -1606,7 +1606,7 @@
       "month": 1,
       "day": 25,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-05-22",
       "status": "pending",
       "solution_path": null,
       "notes": null,
