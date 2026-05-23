@@ -10,7 +10,7 @@
       "combinatorics"
     ],
     "total_problems": 60,
-    "last_updated": "2026-05-22",
+    "last_updated": "2026-05-23",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -1636,7 +1636,7 @@
       "month": 1,
       "day": 26,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-05-23",
       "status": "pending",
       "solution_path": null,
       "notes": "Simulate the Monty Hall problem 10000 times for both strategies (always switch vs always stay). Verify that switching wins ~2/3 of the time. Then explain WHY using conditional probability.",
@@ -1671,7 +1671,7 @@
       "month": 1,
       "day": 26,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-05-23",
       "status": "pending",
       "solution_path": null,
       "notes": null,
