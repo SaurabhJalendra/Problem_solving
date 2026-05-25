@@ -10,7 +10,7 @@
       "combinatorics"
     ],
     "total_problems": 60,
-    "last_updated": "2026-05-24",
+    "last_updated": "2026-05-25",
     "current_streak": 0,
     "longest_streak": 0
   },
@@ -1776,7 +1776,7 @@
       "month": 1,
       "day": 28,
       "problem_number": 1,
-      "date_assigned": null,
+      "date_assigned": "2026-05-25",
       "status": "pending",
       "solution_path": null,
       "notes": null,
@@ -1811,7 +1811,7 @@
       "month": 1,
       "day": 28,
       "problem_number": 2,
-      "date_assigned": null,
+      "date_assigned": "2026-05-25",
       "status": "pending",
       "solution_path": null,
       "notes": "How many rectangles (including squares) are in an m x n grid? Derive the formula using combinations: C(m+1, 2) * C(n+1, 2). Implement and verify against brute force for small grids.",
