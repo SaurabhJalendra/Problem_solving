@@ -1,9 +1,9 @@
 name: Daily Problem Solver
 
 on:
-  # 15:15 UTC = 20:45 IST (8:45pm) — nudge just before the 9pm-11pm practice block
-  schedule:
-    - cron: '15 15 * * *'
+  # Scheduled by cron-job.org (Practice reminder, 20:45 IST) via this workflow's
+  # dispatch endpoint — NOT GitHub's native `schedule:` (removed to stop a duplicate
+  # nightly reminder firing from both GitHub cron and cron-job.org).
   workflow_dispatch: {}
 
 concurrency:
