@@ -9,10 +9,11 @@
       "probability",
       "combinatorics"
     ],
-    "total_problems": 60,
-    "last_updated": "2026-05-27",
+    "total_problems": 74,
+    "last_updated": "2026-10-04",
     "current_streak": 0,
-    "longest_streak": 0
+    "longest_streak": 0,
+    "current_list": "Blind 75 first, NeetCode order (decided 2026-10-04); old m1_* pool kept, not assigned"
   },
   "problems": [
     {
@@ -1967,6 +1968,328 @@
           "title": "Pandigital Numbers — GeeksforGeeks",
           "type": "article",
           "url": "https://www.geeksforgeeks.org/check-if-a-number-is-pandigital-in-base-10/"
+        }
+      ]
+    },
+    {
+      "id": "b75_contains-duplicate",
+      "title": "Contains Duplicate",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/contains-duplicate/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "easy",
+      "list": "blind75",
+      "date_assigned": "2026-10-05",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_valid-anagram",
+      "title": "Valid Anagram",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "easy",
+      "list": "blind75",
+      "date_assigned": "2026-10-05",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_two-sum",
+      "title": "Two Sum",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "easy",
+      "list": "blind75",
+      "date_assigned": "2026-10-05",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_group-anagrams",
+      "title": "Group Anagrams",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-06",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_top-k-frequent-elements",
+      "title": "Top K Frequent Elements",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-06",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_encode-and-decode-strings",
+      "title": "Encode and Decode Strings",
+      "source": "NeetCode",
+      "url": "https://neetcode.io/problems/string-encode-and-decode",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-06",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-07",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_longest-consecutive-sequence",
+      "title": "Longest Consecutive Sequence",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "topic": "arrays-hashing",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-07",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- arrays hashing (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_valid-palindrome",
+      "title": "Valid Palindrome",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/valid-palindrome/",
+      "topic": "two-pointers",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "easy",
+      "list": "blind75",
+      "date_assigned": "2026-10-08",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- two pointers (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_3sum",
+      "title": "3Sum",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/3sum/",
+      "topic": "two-pointers",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-08",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- two pointers (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_container-with-most-water",
+      "title": "Container With Most Water",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/container-with-most-water/",
+      "topic": "two-pointers",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-09",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- two pointers (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "topic": "sliding-window",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "easy",
+      "list": "blind75",
+      "date_assigned": "2026-10-09",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- sliding window (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "topic": "sliding-window",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-10",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- sliding window (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
+        }
+      ]
+    },
+    {
+      "id": "b75_longest-repeating-character-replacement",
+      "title": "Longest Repeating Character Replacement",
+      "source": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "topic": "sliding-window",
+      "subtopic": "Blind 75 (NeetCode order)",
+      "difficulty": "medium",
+      "list": "blind75",
+      "date_assigned": "2026-10-10",
+      "status": "pending",
+      "solution_path": null,
+      "notes": null,
+      "time_spent_minutes": null,
+      "struggled": null,
+      "references": [
+        {
+          "title": "NeetCode roadmap -- sliding window (concept + video per problem)",
+          "type": "article",
+          "url": "https://neetcode.io/roadmap"
         }
       ]
     }
